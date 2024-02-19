@@ -75,7 +75,7 @@ This Python script is designed to scrape property data from the real estate webs
 This pipeline enhances the dataset for analysis and modeling, providing valuable insights into property characteristics and amenities, including feature clusters derived from KMeans clustering.
 
 
-**Exploratory Data Analysis**
+### Exploratory Data Analysis
     Here's a summary of the analysis and visualizations conducted on the Gurgaon properties dataset, along with key observations:
 
 1. **Property Type Distribution:**
@@ -142,7 +142,7 @@ This pipeline enhances the dataset for analysis and modeling, providing valuable
 This summary provides an overview of the dataset's characteristics and highlights areas of interest for further analysis.
 
 
-*** Outlier Treatment ***
+### Outlier Treatment
 
 1. **Outlier Removal:**
    - Identified and removed outliers in the 'price' column using the Interquartile Range (IQR) method.
@@ -162,7 +162,7 @@ This summary provides an overview of the dataset's characteristics and highlight
 These preprocessing steps ensure data integrity and improve the quality of the dataset for further analysis and modeling.
 
 
-*** MODEL SELECTION ***
+### MODEL SELECTION 
 Here's a summary of the model development process for predicting property prices using the Gurgaon properties dataset:
 
 1. **Data Preprocessing:**
@@ -190,7 +190,7 @@ Here's a summary of the model development process for predicting property prices
 
 This model development process provides insights into predicting property prices accurately and efficiently, contributing to decision-making in the real estate domain.
 
-***ANALYTICS APP**
+### ANALYTICS APP
 Here's a summary of the Streamlit web application developed for visualizing analytics on property data:
 
 1. **Location of Sectors:**
@@ -214,7 +214,7 @@ Here's a summary of the Streamlit web application developed for visualizing anal
 This Streamlit application provides an interactive and insightful platform for exploring various aspects of property data, aiding users in understanding geographical distributions, feature importance, price variations, and property type trends.
 
 
-***RECOMMENDER APP**
+### RECOMMENDER APP
 
 ### Apartment Recommender System Summary
 
