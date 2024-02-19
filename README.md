@@ -163,7 +163,7 @@ These preprocessing steps ensure data integrity and improve the quality of the d
 
 
 ### MODEL SELECTION 
-Here's a summary of the model development process for predicting property prices using the Gurgaon properties dataset:
+    Here's a summary of the model development process for predicting property prices using the Gurgaon properties dataset:
 
 1. **Data Preprocessing:**
    - The dataset was preprocessed to handle outliers, categorical variables, and missing values.
@@ -191,7 +191,7 @@ Here's a summary of the model development process for predicting property prices
 This model development process provides insights into predicting property prices accurately and efficiently, contributing to decision-making in the real estate domain.
 
 ### ANALYTICS APP
-Here's a summary of the Streamlit web application developed for visualizing analytics on property data:
+    Here's a summary of the Streamlit web application developed for visualizing analytics on property data:
 
 1. **Location of Sectors:**
    - A scatter map displaying the geographical distribution of sectors based on their average built-up area and price per square foot. Larger and more expensive sectors are represented by larger and warmer-colored markers, respectively.
@@ -218,7 +218,7 @@ This Streamlit application provides an interactive and insightful platform for e
 
 ### Apartment Recommender System Summary
 
-This repository contains a comprehensive apartment recommender system built using Python and various machine learning techniques. The recommender system is designed to assist users in finding suitable apartments based on their preferences and requirements. Here's a brief overview of the key components and functionalities of the recommender system:
+    This repository contains a comprehensive apartment recommender system built using Python and various machine learning techniques. The recommender system is designed to assist users in finding suitable apartments based on their preferences and requirements. Here's a brief overview of the key components and functionalities of the recommender system:
 
 #### Data Preparation and Feature Engineering
 - The dataset used for the recommender system includes information about various apartments, such as property name, location advantages, price details, top facilities, etc.
