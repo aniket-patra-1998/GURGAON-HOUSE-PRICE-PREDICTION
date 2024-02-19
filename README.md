@@ -1,18 +1,16 @@
 # GURGAON-HOUSE-PRICE-PREDICTION
 GURGAON HOUSE PRICE PREDICTION MODEL BASED ON 99ACRES.COM DATA.
 
-GURGAON HOUSE PRICE PREDICTION
-
-PROJECT FLOW :
-    1. Web Scraping from "99Acres.com" for aprtments in Gurgaon.
-    2. Data Cleaning and Feature Engineering.
-    3. Perform in depth Exploratory Data Analysis.
-    4. Outlier detection and missing value Imputtion.
-    5. Feature Selection 
-    6. Model selection and Productionalization.
-    7. Devoloping the analytics module.
-    8. Devoloping the Recommender System.
-    9. Deploying the application on AWS.
+## PROJECT FLOW :
+    ### 1. Web Scraping from "99Acres.com" for aprtments in Gurgaon.
+    ### 2. Data Cleaning and Feature Engineering.
+    ### 3. Perform in depth Exploratory Data Analysis.
+    ### 4. Outlier detection and missing value Imputtion.
+    ### 5. Feature Selection 
+    ### 6. Model selection and Productionalization.
+    ### 7. Devoloping the analytics module.
+    ### 8. Devoloping the Recommender System.
+    ### 9. Deploying the application on AWS.
 
 
 ### Web Scraping Real Estate Data from 99acres.com
